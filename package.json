@@ -1,0 +1,16 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clase06_warszawski.js",
+  "scripts": {
+    "start": "node clase06_warszawski.js",
+    "start-dev": "nodemon clase06_warszawski.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
